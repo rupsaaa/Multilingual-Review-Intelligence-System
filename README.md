@@ -109,6 +109,7 @@ Batch Size: 32
 # 🚀 How to Run the Project
 
 ### Step 1: Clone Repository
+    https://github.com/rupsaaa/Multilingual-Review-Intelligence-System.git
 
 ### Step 2: Navigate to Project   
     cd Multilingual-Review-Intelligence-System
